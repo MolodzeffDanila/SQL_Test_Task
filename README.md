@@ -30,4 +30,4 @@
 
 ## Выполнение
 ### Скриншот ER-диаграммы:
-![alt text](screenshots/model.PNG "Описание будет тут")
+![alt text](screenshots/model.PNG "ER-диаграмма")
