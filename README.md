@@ -30,4 +30,4 @@
 
 ## Выполнение
 ### Скриншот ER-диаграммы:
-![ER-диаграмма](https://github.com/MolodzeffDanila/SQL_Test_Task/main/model.png)
+![ER-диаграмма](/model.png)
